@@ -4,7 +4,7 @@ import Departments from "../../components/Modules/LandingPage/Departments";
 import Gallery from "../../components/Modules/LandingPage/Gallery";
 import Hero from "../../components/Modules/LandingPage/Hero";
 import Testimonials from "../../components/Modules/LandingPage/Testimonials";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 
 function Landing() {
     return (
